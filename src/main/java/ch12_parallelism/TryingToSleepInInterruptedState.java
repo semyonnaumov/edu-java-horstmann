@@ -1,4 +1,4 @@
-package ch12parallelism;
+package ch12_parallelism;
 
 public class TryingToSleepInInterruptedState {
     public static void main(String[] args) throws InterruptedException {
